@@ -15,7 +15,7 @@
   
  <img src = "running.png" width = 400 height = 250> <p> movies running</p> <br> 
   
- <img src = "theater.png" width = 400 height = 250> <p> movie theater</p> <br> 
+ <img src = "theaters.png" width = 400 height = 250> <p> movie theater</p> <br> 
 
 </div>
 
